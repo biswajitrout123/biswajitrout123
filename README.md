@@ -11,13 +11,13 @@
 ---
 
 ## 🚀 About Me
-I am a Computer Science student passionate about transforming ideas into scalable, user-friendly web applications. With a strong foundation in problem-solving and full-stack development, I love building projects from scratch and continuously leveling up my engineering skills.
+I’m a Computer Science undergraduate passionate about designing and building scalable full-stack web applications. I enjoy solving real-world problems through clean, maintainable code while continuously improving my software engineering skills.
 
 - 💻 **Core Focus:** Full Stack MERN Development (MongoDB, Express.js, React.js, Node.js)
-- ☕ **Strong Foundations:** Java, Object-Oriented Programming, and Data Structures & Algorithms (DSA)
+- ☕ **Strong Foundations:** Java, Object-Oriented Programming (OOP), Data Structures & Algorithms, and Problem Solving.
 - 🌐 **Web Technologies:** Building RESTful APIs, responsive UIs, and seamless user experiences
 - 🌱 **Currently Exploring:** Advanced backend architectures, clean code practices, and modern deployment tools
-- 🎯 **Goal:** To build impactful real-world software and contribute to innovative engineering teams
+- 🎯 **Goal:** To become a skilled software engineer by building impactful products and contributing to high-performing engineering teams.
 
 ---
 
@@ -27,7 +27,7 @@ I am a Computer Science student passionate about transforming ideas into scalabl
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### **Frontend Development**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend & Databases**
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
